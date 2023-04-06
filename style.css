@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    padding: 70px;
+}
+.titulo {
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;}
+img {
+    width: 150px;
+    border-radius: 8px;
+    margin: 15px;
+}
